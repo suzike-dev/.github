@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="https://suzike-dev.github.io/">
-<img src="./profile/dashboard.svg" width="100%" alt="组织数据看板"/>
+<img src="https://raw.githubusercontent.com/suzike-dev/.github/main/profile/dashboard.svg?v=2" width="100%" alt="组织数据看板"/>
 </a>
 
 <a href="https://suzike-dev.github.io/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_%E8%BF%9B%E5%85%A5%E4%BA%A4%E4%BA%92%E7%89%88_%E7%BB%84%E7%BB%87%E4%B8%BB%E9%A1%B5-suzike--dev.github.io-8250df?style=for-the-badge" alt="进入组织主页"/></a>
