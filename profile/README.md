@@ -24,6 +24,8 @@
 
 <div align="center">
 <a href="https://suzike-dev.github.io/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_进入-组织数据看板-8250df?style=for-the-badge" alt="进入组织数据看板"/></a>
+&nbsp;
+<a href="https://github.com/suzike-dev/.github/discussions"><img src="https://img.shields.io/badge/💬_社区-Discussions-1a7f37?style=for-the-badge" alt="组织讨论区"/></a>
 </div>
 
 ## 📊 组织数据看板
