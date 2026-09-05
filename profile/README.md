@@ -23,8 +23,7 @@
 ## 🖥️ 组织可视化主页
 
 <div align="center">
-<a href="https://suzike-dev.github.io/"><img src="./preview.png" width="720" alt="组织可视化主页预览"/><br/>
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_点击进入-组织数据看板-suzike--dev.github.io-8250df?style=for-the-badge" alt="进入组织主页"/></a>
+<a href="https://suzike-dev.github.io/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_进入-组织数据看板-8250df?style=for-the-badge" alt="进入组织数据看板"/></a>
 </div>
 
 ## 📊 组织数据看板
